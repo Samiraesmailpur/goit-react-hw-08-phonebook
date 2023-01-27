@@ -10,7 +10,8 @@ export default function Home() {
           fontWeight: '200',
         }}
       >
-        Welcome to the phone book, where you can save your family and friends
+        Welcome to the phonebook, where you can save contacts of your family and
+        friends
       </div>
     </>
   );
